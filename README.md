@@ -47,7 +47,6 @@ GitHub
 
 Docker
 
-Cloud
 
 AWS (Cloud Practitioner / Associate-Niveau)
 
@@ -57,28 +56,11 @@ Scrum (PSPO I, PSM I)
 
 FlexPLM (Product Lifecycle Management)
 
-📊 Datenanalyse-Projekte
-📚 Buchmarktanalyse & Vorhersagemodelle
-
 Analyse von Genres, Autor:innen und Verkaufsdaten
 
 Entwicklung von Machine-Learning-Modellen zur Prognose von Bestseller-Potenzial und Verfilmungen
 
 Tools: Python, Pandas, scikit-learn, Matplotlib
-
-🔗 Repository: Book Market Analysis
-
-☁️ Cloudbasierte Zeiterfassung & BI-Dashboard
-
-Cloudlösung auf Basis von AWS
-
-ETL-Datenpipeline und interaktives Power-BI-Dashboard
-
-Fokus auf Datenintegration, Reporting und Automatisierung
-
-🔗 Repository: AWS Time Tracking Project
-
-🏅 Olympische Spiele – Datenanalyse
 
 Datenanalyse mit SQL und Python
 
@@ -86,7 +68,6 @@ Interaktive Exploration mit Streamlit
 
 Visualisierung und Insights mit Pandas
 
-🔗 Repository: Olympic Games Analysis
 
 🎯 Hintergrund
 
