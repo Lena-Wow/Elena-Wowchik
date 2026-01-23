@@ -1,72 +1,48 @@
 # Elena-Wowchik
 👋 Hi, ich bin Lena
 
-Data Analyst | Business Intelligence | Machine Learning
+BI / Data Visualization Analyst (Career Switch) · 20+ Jahre Industrie · 8 Jahre Remote & Freelance · Power BI · Scrum
 
 Ich bin eine datengetriebene Analystin mit starkem analytischem Hintergrund und langjähriger in Fashionbranche als dipl.ing.
 Mein Fokus liegt darauf, komplexe Daten in fundierte Entscheidungsgrundlagen zu überführen – mit Python, SQL, BI-Tools und Machine-Learning-Verfahren.
 
 🔧 Technische Kompetenzen
-Business Intelligence
+Datenvisualisierung & Reporting
+Power BI (Dashboards, DAX, Power Query)
+Tableau (Dashboards, Visualisierung)
+Excel (Pivot-Tabellen, Formeln, Makros)
+Streamlit (interaktive Web-Dashboards)
 
-Power BI (DAX, Power Query)
-
-Tableau
-
-Datenabfrage & Analyse
-
-SQL
-
-Excel (sehr gute Kenntnisse: Pivot-Tabellen, Makros, Datenanalyse)
-
-Programmierung & Data Science
-
-Python (Pandas, Matplotlib, scikit-learn, Streamlit)
+Programmiersprachen & Datenbanken
+Python (Pandas, NumPy, Matplotlib, 
+SQL (Datenabfrage, Transformation, Datenmodellierung)
+Seaborn, scikit-learn)
+MongoDB / NoSQL 
 
 Machine Learning & Statistik
-
 Klassische ML-Verfahren
-
-Statistische Analyse & prädiktive Modelle
-
-Datenbanken
-
-MongoDB (NoSQL)
+Statistische Analyse & Predictive Modele
 
 Datenprozesse & Architektur
-
-ETL-Pipelines
-
+ETL-Pipelines (Make, n8n, Airflow)
 Explorative Datenanalyse (EDA)
-
-Big-Data-Grundlagen
+Big Data Grundlagen
 
 Dev & Collaboration
-
 GitHub
-
 Docker
 
+Cloud/Cloud Computing
+AWS (Associate Level, Architektur & Deployment)
 
-AWS (Cloud Practitioner / Associate-Niveau)
-
-Methoden & Tools
-
+Methoden & Prozesse
 Scrum (PSPO I, PSM I)
 
-FlexPLM (Product Lifecycle Management)
-
-Analyse von Genres, Autor:innen und Verkaufsdaten
-
-Entwicklung von Machine-Learning-Modellen zur Prognose von Bestseller-Potenzial und Verfilmungen
-
-Tools: Python, Pandas, scikit-learn, Matplotlib
-
-Datenanalyse mit SQL und Python
-
-Interaktive Exploration mit Streamlit
-
-Visualisierung und Insights mit Pandas
+PLM- & CAD-Systeme
+FlexPLM 
+GRAFIS
+Adobe Illustrator
+CorelDRAW
 
 
 🎯 Hintergrund
@@ -92,7 +68,5 @@ Ausgeprägte Erfahrung in Prozessanalyse, Digitalisierung, Standardisierung und 
 Enge Zusammenarbeit mit Design, Einkauf, IT, Qualität, Produktion und externen Partnern
 
 📫 Kontakt
-
-GitHub: https://github.com/Lena-Wow
 
 LinkedIn: https://www.linkedin.com/in/elena-wowchik-b00158295/
