@@ -1,7 +1,7 @@
 # Elena-Wowchik
 👋 Hi, ich bin Lena
 
-BI / Data Visualization Analyst (Career Switch) · 20+ Jahre Industrie · 8 Jahre Remote & Freelance · Power BI · Scrum
+BI / Data Analyst (Career Switch) · 20+ Jahre Industrie · 8 Jahre Remote & Freelance · Power BI · ML· Scrum
 
 Ich bin eine datengetriebene Analystin mit starkem analytischem Hintergrund und langjähriger Industrieerfahrung als dipl.ing.
 Mein Fokus liegt darauf, komplexe Daten in fundierte Entscheidungsgrundlagen zu überführen – mit Python, SQL, BI-Tools und Machine-Learning-Verfahren.
